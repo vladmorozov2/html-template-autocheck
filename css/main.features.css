@@ -28,6 +28,8 @@
   font-weight: 400;
   line-height: 40px; /* 142.857% */
   letter-spacing: 0.2px;
+  color: var(--paragraph-color);
+
 }
 .features__laptop {
   display: flex;

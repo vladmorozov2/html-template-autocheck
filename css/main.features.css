@@ -32,9 +32,22 @@
 .features__laptop {
   display: flex;
   justify-content: center;
+  position: relative;
 }
 .features__laptop--screen {
   width: 100%;
+}
+.features__laptop--ellipse {
+  position: absolute;
+  left: 43%;
+  top: 42%;
+  width: 40px;
+}
+.features__laptop--play-icon {
+  position: absolute;
+  left: 47%;
+  top: 48%;
+  width: 13px;
 }
 .features__item {
   display: flex;

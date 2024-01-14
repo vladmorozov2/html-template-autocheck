@@ -1,26 +1,26 @@
---h2-style: {
+/* /* --h2-style: {
     margin-top: 20px;
     margin-bottom: 10px;
     font-size: 48px;
     font-style: normal;
     font-weight: 400;
     line-height: 55px; /* 114.583% */
-    letter-spacing: 0.2px;
-    color: var(--black);
-  }
+    /* letter-spacing: 0.2px;
+    color: var(--black); */
+  /* }
   --paragraph-style {
     font-size: 28px;
     font-style: normal;
     font-weight: 400;
     line-height: 40px; /* 142.857% */
-    letter-spacing: 0.2px;
-    color: var(--paragraph-color);
-  }
+    /* letter-spacing: 0.2px; */
+    /* color: var(--paragraph-color); */
+  /* }
   --bold-paragraph {
     font-family: "Graphik1";
   font-size: 30px;
   font-style: normal;
   font-weight: 500px;
   line-height: 30px; /* 114.583% */
-  letter-spacing: 0.2px;
-  }
+  /* letter-spacing: 0.2px; */
+  /* } */ 

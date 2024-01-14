@@ -18,11 +18,16 @@ body {
   --white: #ffffff;
   --light-blue: #2091f9;
   --black: #000000;
-  --light-black: #252B42;
+  --light-black: #252b42;
   scroll-behavior: smooth;
   font-family: Graphik;
+  --paragraph-color: #374754;
 }
 
 img {
   display: block;
+}
+
+section {
+  margin-bottom: 30px;
 }
